@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Desk lamp",
+      "picture": "https://img.ltwebstatic.com/images3_spmp/2023/09/08/16/1694162149bee51af18267b8c185e10fc4ecdf009d_thumbnail_720x.webp",
+      "description": "Cheap lamp",
+      "price": 20,
+      "bought": false,
+      "user": {
+        "id": 1,
+        "name": "David"
+      },
+      "category": {
+        "id": 1,
+        "name": "School Materials"
+      }
+    }
+  ],
+  "count": 1
+}
